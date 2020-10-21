@@ -1,6 +1,6 @@
 
 
-<h1>Jest cheat sheet</h1>
+<h1>JEST</h1>
 
 </div>
 
